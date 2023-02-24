@@ -1,5 +1,5 @@
 html body{
-    background-color: blueviolet;
+    background-color: black;
     margin: 0;
     padding: 0;
 }
@@ -10,8 +10,8 @@ html body{
     transform: translate(-50%, -50%);
     background-color: rgb(145, 227, 25);
     box-shadow: rgb(29, 26, 29);
-    border-radius: 15px;
-    padding-bottom: 18px;
+    border-radius: 20px;
+    padding-bottom: 20px;
     width: 325px;
 }
 .display{
